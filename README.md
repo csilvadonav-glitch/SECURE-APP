@@ -1,2 +1,2 @@
 # SECURE-APP
-Uma app de segurança para um condomínio, app de máxima segurança e controle do condomínio 
+Uma app de segurança para um condomínio de alto padrão , app de máxima segurança e controle do condomínio 
